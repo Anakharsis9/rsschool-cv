@@ -74,4 +74,8 @@ _April 2020 - February 2021_
 Website development, prototyping of the user interface, Improvement and
 refinement of the existing design. Layout of one-page pages on tilda.
 
----
+## Education
+_2018 - 2022_
+### Suleyman Demirel University | Almaty
+Faculty of Engineering and Natural Sciences, specialization of Computer Science and Computer Engineering
+
