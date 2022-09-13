@@ -100,4 +100,12 @@ Faculty of Engineering and Natural Sciences, bachelor of Computer Science and Co
 - English (B1-B2 intermediate)
 - Kazakh
 
+## About me 
+
+I get introduced to the world of the Web back in my 2nd year of study when I wanted to rewrite the university portal with a small team. Then I find myself as a designer, and then the courses and my first job in the role of UX / UI.
+
+During my work as a designer, I realized that I often look in the direction of development.
+But at that time, there was a vacancy for an RPG developer in my previous company. There are process analytics and automation of various business areas. At work, I often
+resorted to a knowledge of the web, networks, and in particular javascript. And now I am interested in high-quality
+construction of web applications and came to frontend development.
 
