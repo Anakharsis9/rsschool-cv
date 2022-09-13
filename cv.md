@@ -16,6 +16,8 @@ _Female, 21 years (Sep 19, 2000)_
 
 **Email: dayana.ismailova19@gmail.com**
 
+**Github: [anakharsis9](https://github.com/Anakharsis9)**
+
 **LinkedIn: [dayana-ismailova.linkedin](https://www.linkedin.com/in/dayana-ismailova-bbb66a1b0)**
 
 **Telegram: [@anakharsis_9](https://t.me/anakharsis_9)**
