@@ -75,7 +75,27 @@ Website development, prototyping of the user interface, Improvement and
 refinement of the existing design. Layout of one-page pages on tilda.
 
 ## Education
+
 _2018 - 2022_
+
 ### Suleyman Demirel University | Almaty
-Faculty of Engineering and Natural Sciences, specialization of Computer Science and Computer Engineering
+
+Faculty of Engineering and Natural Sciences, bachelor of Computer Science and Computer Engineering
+
+## Key skills
+
+- JavaScript
+- SQL
+- Sass
+- Git
+- Ajax
+- Vue eco system
+- Figma
+
+## Language
+
+- Russian 
+- English (B1-B2 intermediate)
+- Kazakh
+
 
